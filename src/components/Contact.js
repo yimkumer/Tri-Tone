@@ -60,8 +60,8 @@ function Contact() {
                 <i className="fas fa-phone-alt"></i>
               </div>
               <div>
-                <h4>Phone</h4>
-                <p>(555) 123-4567</p>
+                <h4>WhatsApp</h4>
+                <p>+91 9611980668</p>
               </div>
             </div>
             
@@ -71,7 +71,7 @@ function Contact() {
               </div>
               <div>
                 <h4>Email</h4>
-                <p>info@tritonemusic.com</p>
+                <p>tri-tonemusiced.center@gmail.com</p>
               </div>
             </div>
             
