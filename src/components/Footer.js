@@ -15,16 +15,16 @@ function Footer() {
             Tri-Tone Music Academy was formed in 2010 with a vision to spread quality music education across the region.
           </p>
           <div className="social-media">
-            <a href="https://facebook.com" aria-label="Facebook" className="social-link">
+            <a href="https://facebook.com" aria-label="Facebook" className="social-link" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="https://instagram.com" aria-label="Instagram" className="social-link">
+            <a href="https://instagram.com" aria-label="Instagram" className="social-link" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-instagram"></i>
             </a>
-            <a href="https://youtube.com" aria-label="YouTube" className="social-link">
+            <a href="https://youtube.com" aria-label="YouTube" className="social-link" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-youtube"></i>
             </a>
-            <a href="https://twitter.com" aria-label="Twitter" className="social-link">
+            <a href="https://twitter.com" aria-label="Twitter" className="social-link" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-twitter"></i>
             </a>
           </div>
